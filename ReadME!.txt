@@ -1,2 +1,3 @@
 learning git
-first txt file
+first txt file.
+add my file.
